@@ -78,7 +78,7 @@ $(function () {
     /**  Start Typed
      **====================== **/
     $(".kayo-work").typed({
-        strings: ["Web Developer.", "Web Designer."],
+        strings: ["Web INI HANYA BERISI TENTANG SAYA.", "Web INI BERISI KEPRIBADIAN SAYA."],
         cursorChar: "",
         typeSpeed: 150,
         loop: true,
